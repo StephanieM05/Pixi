@@ -3,5 +3,5 @@ This module is no longer supported.  However, it's wildy vulnerable, so if you w
 ## To Run
 
 ```
-docker-compose up
+docker-compose up 
 ```
